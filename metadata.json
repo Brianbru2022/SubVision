@@ -1,0 +1,8 @@
+{
+  "name": "SubVision AI - Pro Video Subtitler",
+  "description": "A high-performance video subtitling tool using Gemini 3 Pro for 'XXL' class speech detection, audio chunking, and subtitle baking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
